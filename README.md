@@ -1,7 +1,11 @@
 
-This is where I practice ML learned from "Machine Learning Specialization" taught by Dr. Andrew Ng in Coursera.
+## About
+
+This is where I practice ML learned from __"Machine Learning Specialization"__ taught by __Dr. Andrew Ng__ in Coursera.
 
 Here I try to implement major ML algorithms on my own.
 
-Start Date: Feb 16.
+## Dates
+
+Start Date: __Feb 16__.  
 End Date: 
