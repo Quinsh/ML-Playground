@@ -39,7 +39,7 @@ def cost_J(X, y, w, b):
         J += ((np.dot(w, X[i]) + b) - y[i]) ** 2
     J /= 2 * m
     return J
-    
+
 # compute the gradients (hardest part in this file) 
 def compute_gradients(X, y, w, b):
     m, n = X.shape
