@@ -9,7 +9,7 @@ In this experiment alpha needed to be set to 0.0000005 not to overshoot.
 
 """
 
-""" Things to Remember:
+""" To Remember:
 
 Just remember the gradient computing function. That's the hardest part of this.
 

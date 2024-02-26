@@ -1,6 +1,11 @@
 
 """ To remember
 
+there three types of feature scaling:
+1. z-score (standardization)
+2. min-max scaling
+3. mean normalization
+
 how np.mean, np.std, np.min, np.max work.
 what is meant by axis=0 and axis=1 in np.mean, np.std, np.min, np.max
 
