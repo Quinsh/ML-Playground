@@ -7,7 +7,7 @@ Here I try to implement major ML algorithms on my own:
 - Linear Regression
 - Linear Regression with multiple variables
 - Logistic Regression
-- 
+- Regularized Logistic Regression
 
 ## Dates
 
